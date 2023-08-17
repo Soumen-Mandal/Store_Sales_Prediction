@@ -6,6 +6,9 @@ Using this model, Store will try to understand the properties of products and ou
 
 Please note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly. 
 
+Goal
+Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
+
 This project will proceed with the following structure:
 
 1. **Hypothesis Generation** — attempt to better understand the problem by formulating pre-conceived hypothesis and possible factors relating to or affecting the outcome which are the sales
