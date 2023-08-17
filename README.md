@@ -6,7 +6,7 @@ Using this model, Store will try to understand the properties of products and ou
 
 Please note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly. 
 
-#Goal
+# Goal
 
 Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 
